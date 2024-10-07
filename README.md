@@ -27,11 +27,11 @@ I utilized SQL to explore the data and answer key business questions to derive a
 
 - Compared averages and aggregates across different employee segments and criteria
 
-- Identified top and bottom performers on key metrics like satisfaction, attrition based on criteria
+- Identified top and bottom performers on key metrics like satisfaction, attrition based on criteria.
 
-- Used SQL techniques like JOINs, GROUP BY, HAVING, CASE statements for complex analysis 
+- Used SQL techniques like JOINs, GROUP BY, HAVING, CASE statements for complex analysis. 
 
-- Organized and presented findings in a clear format for consumption by leadership
+- Organized and presented findings in a clear format for consumption by leadership.
 
 
 ## Exploring Trends in Automotive Industry
